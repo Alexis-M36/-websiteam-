@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(20, 18, 136, 0.882);
+  
+.Description-du-jeu{
+  color: rgb(255, 0, 242) ;
+}
+
+.Description-2{
+  text-align: justify-all;
+        text-align: left;
+        text-align: top;
+        width: 300px;
+        border: 1px solid #292929;
+        padding: 10px;
+}
+
+.bouton-achat{
+  background-color: #ff0000; /* Couleur de fond */
+  color: #760083; /* Couleur du texte */
+  padding: 10px 20px; /* Espacement intérieur */
+  border: none; /* Supprimer la bordure par défaut */
+  border-radius: 5px; /* Coins arrondis */
+  cursor: pointer; /* Curseur de type main au survol */
+  font-size: 16px; /* Taille de police */
+
+
+}
+}
+  
